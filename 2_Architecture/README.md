@@ -1,1 +1,2 @@
-
+block diagram
+circuit diagram
